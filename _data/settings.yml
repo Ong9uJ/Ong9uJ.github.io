@@ -1,6 +1,6 @@
 basic_settings:
   site_title: 정영빈
-  site_tagline: "더 나은 코드를 위해 고민합니다.\n지금 나의 코드가 10년 뒤에도 가치 있길 바라며 코드를 작성합니다."
+  site_tagline: "지금 작성한 코드가 10년 뒤에도 가치 있길 바라며 코드를 작성합니다."
   favicon_image: /images/favicon.png
 
 header_settings:
