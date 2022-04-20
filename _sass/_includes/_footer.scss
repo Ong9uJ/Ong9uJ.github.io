@@ -41,14 +41,4 @@
 	@include mq(laptop) {
 		padding-left: 60px;
 	}
-
-	a {
-		margin-left: 10px;
-		color: $text-light-color;
-		font-weight: $regular-weight;
-
-		&:hover {
-			color: $text-medium-color;
-		}
-	}
 }
