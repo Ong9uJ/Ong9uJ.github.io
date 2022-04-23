@@ -1,6 +1,6 @@
 basic_settings:
   site_title: 정영빈
-  site_tagline: "Write more code to write less code."
+  site_tagline: "I hope that the code I write now is still valuable 10 years later"
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,12 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'About'
+    - title: 'Latest'
       url: '/'
-    - title: 'Study'
-      url: '/study'
-    - title: 'Projects'
-      url: '/projects/'
+    - title: 'About'
+      url: '/about'
 
 grid_settings:
   grid_spacing: 10
