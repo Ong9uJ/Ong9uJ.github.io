@@ -10,10 +10,10 @@ featured_image: /images/profile.jpeg
 * UI/UX programming
 
 ### Education
-* 2013-2016 [Guhyun High School](https://guhyun.sen.hs.kr)
-* 2016-2022 [Incheon National University](https://www.inu.ac.kr)  
-　　　　- Bachelor of Engineering in Embedded Systems Engineering  
-　　　　- Master of Engineering in Embedded Systems Engineering
+##### 2013-2016 [Guhyun High School](https://guhyun.sen.hs.kr)
+##### 2016-2022 [Incheon National University](https://www.inu.ac.kr)  
+###### 2020 - Bachelor of Engineering in Embedded Systems Engineering  
+###### 2022 - Master of Engineering in Embedded Systems Engineering
 
 
 ### Career
