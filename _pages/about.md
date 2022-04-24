@@ -5,7 +5,7 @@ featured_image: /images/profile.jpeg
 ---
 
 ### Interest
-* I love open source software
+* Open source software
 * Mobile application develop
 * UI/UX programming
 
