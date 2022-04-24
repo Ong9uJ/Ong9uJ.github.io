@@ -25,7 +25,7 @@ featured_image: /images/profile.jpeg
 
 
 ### Outsourcing
-#### 2019 [Lost](https://lostagent.team/) 
+#### 2020 [Lost](https://lostagent.team/) 
 ##### 　　iOS Develop:  
 　　　- [RxSwift](https://github.com/ReactiveX/RxSwift)  
 　　　- [Alamofire](https://github.com/NordicSemiconductor/IOS-nRF-Mesh-Library)  
